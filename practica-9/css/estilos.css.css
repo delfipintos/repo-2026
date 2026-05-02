@@ -1,0 +1,27 @@
+selector { grid-area: valor; }
+p { 
+    color:plum;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {background-color: blanchedalmond;}
+
+.miau {
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-size: larger;
+}
+
+.miauu {
+    color:paleturquoise;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    font-style:oblique 
+}
+
+.ziyu {
+    color:indigo;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-display: swap; 
+    font-size: xx-large;
+}
