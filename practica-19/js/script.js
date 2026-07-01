@@ -1,4 +1,8 @@
+window.onload = function() {
 let pagina = document.querySelector('body');
-pagina.addEventListener('click', function() {
-  this.style.color = 'red' 
+if (pagina) { 
+  pagina.addEventListener('click', function(event) {
+  event.target.style.color = 'red';
 });  
+}
+};
