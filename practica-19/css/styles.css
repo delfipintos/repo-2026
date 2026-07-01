@@ -1,1 +1,8 @@
-
+body { 
+  font-family: "Emilys Candy", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(32, 18, 29);
+  text-align: center;
+  background-color: rgb(131, 61, 83);
+     } 
