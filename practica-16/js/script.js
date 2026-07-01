@@ -16,8 +16,8 @@ apellido = "choi";
 nombreCompleto = "choi soobin";
 edad = 25;
 
-universidad = "Universidad Nacional de La Plata"; 
-
 console.log(nombreCompleto);
 console.log(edad);
+
+universidad = "Universidad Nacional de La Plata"; 
 console.log(universidad);
