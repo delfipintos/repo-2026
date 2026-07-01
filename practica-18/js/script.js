@@ -6,7 +6,9 @@ window.onload = function() {
     
     const parrafos = document.querySelectorAll('.text-p');
     parrafos[0].textContent = "but that's just the thing that happens";
+    parrafos[0].style.color = "rgb(90, 55, 81)";
     parrafos[1].textContent = "when my baby goes away";
+    parrafos[1].style.color = "rgb(90, 55, 81)";
     
     document.body.style.backgroundColor = "rgb(90, 55, 81)";
 };
