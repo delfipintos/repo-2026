@@ -1,7 +1,7 @@
 window.onload = function() {
     alert("Al aceptar cambia todo");
 
-    document.getElementById('title').textContent = "maggots for brain";
+    document.getElementById('title').textContent = "maggots for brains";
     document.getElementById('title').style.color = "rgb(32, 18, 29)";
     
     const parrafos = document.querySelectorAll('.text-p');
