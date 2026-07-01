@@ -1,1 +1,18 @@
+p { 
+  font-family: "Emilys Candy", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(109, 36, 59);
+}
+
+title { 
+  font-family: "Emilys Candy", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(109, 36, 59); 
+} 
+
+body { 
+  background-color: rgb(240, 163, 188)
+} 
 
