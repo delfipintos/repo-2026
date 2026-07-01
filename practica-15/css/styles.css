@@ -1,6 +1,6 @@
 p { 
     color:rgb(163, 198, 245);
-    
+    font-weight: lighter
 }
 
 body {
@@ -8,4 +8,6 @@ body {
     font-family: "Archivo Black", sans-serif;
     font-weight: 400;
     font-style: normal;
+    background-color: rgb(255, 251, 244);}
+
      }
